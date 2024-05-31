@@ -1,0 +1,54 @@
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.exe
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.deps.json
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.pdb
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\bin\Debug\net8.0\ArenaGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\bin\Debug\net8.0\ArenaGame.pdb
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.AssemblyReference.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleG.E8750121.Up2Date
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\refint\ConsoleGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.pdb
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ConsoleGame\obj\Debug\net8.0\ref\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.exe
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.deps.json
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.runtimeconfig.json
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.pdb
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\bin\Debug\net8.0\ArenaGame.dll
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\bin\Debug\net8.0\ArenaGame.pdb
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.AssemblyReference.cache
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfoInputs.cache
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfo.cs
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.CoreCompileInputs.cache
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleG.E8750121.Up2Date
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\refint\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.pdb
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.genruntimeconfig.cache
+D:\STD\OOP with c#\ArenaGame-20240530T171430Z-001\ArenaGame\ConsoleGame\obj\Debug\net8.0\ref\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.exe
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.deps.json
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.runtimeconfig.json
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\bin\Debug\net8.0\ConsoleGame.pdb
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\bin\Debug\net8.0\ArenaGame.dll
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\bin\Debug\net8.0\ArenaGame.pdb
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.AssemblyReference.cache
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfoInputs.cache
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfo.cs
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.csproj.CoreCompileInputs.cache
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleG.E8750121.Up2Date
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\refint\ConsoleGame.dll
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.pdb
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ConsoleGame.genruntimeconfig.cache
+D:\STD\OOP with c#\ArenaGame\ArenaGame\ConsoleGame\obj\Debug\net8.0\ref\ConsoleGame.dll
